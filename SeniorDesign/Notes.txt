@@ -1,0 +1,9 @@
+1N 3064 diode to pi to step down battery pack to 5v input, we can still 
+
+CONTROLLER:
+
+Assigned IP Address: 192.168.21.146
+Assigned IP Address: 192.168.21.146
+Assigned IP Address: 192.168.21.146
+Assigned IP Address: 192.168.21.146
+Assigned IP Address: 192.168.21.146
