@@ -1,6 +1,9 @@
 # RobotKit_SeniorDesign
  Senior Design Robot Kit and Controller for Introduction to Robotics Classes
 
+The primary objective of this project was to redesign and manufacture a new robotics kit for use in the Introduction to Robotics class. The new kit is intended to fix the shortcomings of the old kit when it came to ease of use and reliability. Within the new kit the customer requested that a Raspberry Pi Pico be used, new DC motors with motor encoders are chosen, and the microcontroller should be Arduino IDE compatible. 
+
+The secondary objective of this project was to design the robot with the intention of making a “Sumo Bot” demonstration for STEM outreach events. The plan was to have the robot kit have an onboard wireless connection that would talk with a developed controller. The controller would either be tilt or joystick activated and would drive the robot according to the direction inputted by the user. The body of the robot would also be capable of protecting the microcontroller as another robot crashed into it, attempting to push it out of the ring.  
 
  Software 
 
